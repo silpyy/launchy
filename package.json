@@ -1,0 +1,21 @@
+{
+  "name": "@silpyy/launchy",
+  "version": "0.1.0",
+  "description": "test app for ole-nepal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silpyy/launchy.git"
+  },
+  "author": "silpyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silpyy/launchy/issues"
+  },
+  "homepage": "https://github.com/silpyy/launchy#readme"
+  ,
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
+}
